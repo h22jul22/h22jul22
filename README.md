@@ -1,9 +1,15 @@
 <div align="center">
 
 <h1>Hello, I'm Heeju</h1>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh22jul22%2Fhit-counter&count_bg=%23FBF586&title_bg=%23E2BAF5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<div>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh22jul22%2Fhit-counter&count_bg=%23FBF586&title_bg=%23E2BAF5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
 <br>
-<img src="https://github.com/user-attachments/assets/d27a40dd-3d66-4cff-bc38-d3c82dc16125" width="600">
+
+<div>
+  <img src="https://github.com/user-attachments/assets/d27a40dd-3d66-4cff-bc38-d3c82dc16125" width="500">
+</div>
 
 <h2>✨ tech ✨</h2> 
 
@@ -29,6 +35,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
+<br>
   
 </div>
 
